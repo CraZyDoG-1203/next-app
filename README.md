@@ -104,11 +104,11 @@ Everyone is honest
 - Advantage
 - Resources
 ### Three conditions to achieve
-1. **Completeness**
+1. ** Completeness **
     1.1 If Statement are true, the prover can prove to the verifer.
-2. **Reliability**
+2. ** Reliability **
     2.1
-3. **Zero Knowledge**
+3. ** Zero Knowledge **
 
 ## Next.js (Paragraph)
 Introducing next.js
