@@ -104,12 +104,12 @@ Everyone is honest
 - Advantage
 - Resources
 ### Three conditions to achieve
-1. ** Completeness **
-    1.1 If Statement are true, the prover can prove to the verifer.
-2. ** Reliability **
-    2.1
-3. ** Zero Knowledge **
-
+1. **Completeness**
+- If statements are true, the prover can prove to the verifer.
+2. **Reliability**
+- If statements are fake, there is only a small chance it can pursuade the verifier.
+3. **Zero Knowledge**
+- The verifier won't know any unrelative message in any conditions.
 ## Next.js (Paragraph)
 Introducing next.js
 ## Summary
