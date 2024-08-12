@@ -172,7 +172,7 @@ Used to develop server side application. Node.js is a open-source, cross-platfor
 ### Summary
 - Specialities
 - Where to use
-- Frame and eco-system
+- Frame and software eco-system
 - Advantages
 ### Specialities
 - Non-blocking I/O model
@@ -195,4 +195,11 @@ JavaScript is a high-level, straight-interpreted, versatile programing language.
 - Advantages
 - Resources
 ### Common frames
+- React
+- Angular
+- Vue
+- jQuery
 ### Advantages
+- High effeciency
+- Highly support
+- 
