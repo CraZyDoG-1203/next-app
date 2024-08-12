@@ -77,7 +77,7 @@ const toggleSubmenu = () => {
 Use list method to show the city.
 ### Function
 - Switch content to show or hide.
-- Two ways to show list `city.map`, `city = []`.
+- Two ways to show list `city.map` , `city = []`.
 - Deal with empty arrays.
 ``` typescript
  {city.length === 0 && <p> No items found </p> }
@@ -100,6 +100,15 @@ Introducting Zero knowledge Proof
 ## Next.js (Paragraph)
 Introducing next.js
 ## Summary
+- History
+- Author
+- Underdraw how it works
+- 3 Conditions needed
+-.1 完備性
+-.2 可靠性
+-.3 零知識
+- Advantage
+- Resource
 
 ## RESTful API (Paragraph)
 Intoducting RESTful API
