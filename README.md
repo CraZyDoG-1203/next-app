@@ -57,7 +57,7 @@ This code is a practice of basic next.js.Function, skills including:
  6. Next.js
  7. RESTful API
  8. Node.js
- 9. Javascript
+ 9. JavaScript
 
 ## ClientSideMenu
 Opening the content of submenu
@@ -138,6 +138,7 @@ Next.js is a web develop framework build on react and node.js.
 - Capabilities
 - Hot Reloading
 - 3 Rendering method
+- Resources
 ### Coding Language
 - Javascript
 - Typescript
@@ -157,6 +158,7 @@ RESTful API(Representational State Transfer API) is used in communication upon i
 - Where to use
 - Conveniences
 - Advantages
+- Resources
 ### Conveniences 
 - No need to read API documents before using it.
 ### Advantages
@@ -185,5 +187,12 @@ Used to develop server side application. Node.js is a open-source, cross-platfor
 
 
 ## JavaScript (Paragraph)
-Introducting JavaScript
+JavaScript is a high-level, straight-interpreted, versatile programing language. Used with HTML, CSS to control webpages. In a nutshell, JavaScript controls the behaviors on webpages.
 ### Summary
+- History
+- Where to use
+- Commeon frames
+- Advantages
+- Resources
+### Common frames
+### Advantages
