@@ -110,9 +110,27 @@ Everyone is honest
 - If statements are fake, there is only a small chance it can pursuade the verifier.
 3. **Zero Knowledge**
 - The verifier won't know any unrelative message in any conditions.
+
 ## Next.js (Paragraph)
 Introducing next.js
 ## Summary
+- History
+- Coding Language
+- Capability
+- 3 Rendering method
+### Coding Language
+- Javascript
+- Typescript
+### Capability
+- Own Router System
+- Auto static optimization
+- API router
+### 3 Rendering method
+- SSG Static Site Generation
+- ISR Incremental Site Regeneration
+- SSR Server side Rendering
+
+
 
 
 ## RESTful API (Paragraph)
