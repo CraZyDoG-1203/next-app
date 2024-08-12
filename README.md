@@ -108,6 +108,7 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 <b></b>
 ```
 ### Links
+Mostly used in return
 ```html
 <a></a>
 <Link href = "...">...</Link>
@@ -149,9 +150,8 @@ Next.js is a web develop framework build on react and node.js.
 - **ISR Incremental Site Regeneration**
 - **SSR Server side Rendering**
 
-
 ## RESTful API (Paragraph)
-Intoducting RESTful API
+RESTful API(Representational State Transfer API) is used in communication upon idividual programs or applications.
 ### Summary
 - History
 - Where to use
@@ -166,8 +166,23 @@ Intoducting RESTful API
 
 
 ## Node.js (Paragraph)
-Introducing Node.js 
+Used to develop server side application. Node.js is a open-source, cross-platform Javascript runtime environment.
 ### Summary
+- Specialities
+- Where to use
+- Frame and eco-system
+- Advantages
+### Specialities
+- Non-blocking I/O model
+- Event-driven
+- Light weight and Efficient
+### Advantages
+- High performace
+- High scalable
+- cross platform
+- High develop efficiency
+
+
 
 ## JavaScript (Paragraph)
 Introducting JavaScript
