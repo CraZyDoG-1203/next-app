@@ -52,10 +52,12 @@ This code is a practice of basic next.js.Function, skills including:
 ## ClientSideMenu
 Opening the content of submenu
 ### Function
-- 從 JSONPlaceholder API 獲取用戶數據
-- 顯示用戶的姓名和電子郵件地址
-- 顯示當前時間
-- 提供返回側邊菜單的鏈接
+- Get user data from JSONPlaceholder API   
+``` typescript
+const res = await fetch("https://jsonplaceholder.typicode.com/users")
+```
+- Display user's name and email address
+- Display current time
 
 ##  City List 
 Use list method to show the city 
