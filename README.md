@@ -94,11 +94,7 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 - Display current time
 
 ## zkp (Paragraph)
-Introducting Zero knowledge Proof 
-## Summary
-
-## Next.js (Paragraph)
-Introducing next.js
+Introducting Zero knowledge Proof. A way to confirm data without giving out identity.
 ## Summary
 - History
 - Author
@@ -108,7 +104,12 @@ Introducing next.js
 1.2 可靠性
 1.3 零知識
 - Advantage
-- Resource
+- Resources
+
+## Next.js (Paragraph)
+Introducing next.js
+## Summary
+
 
 ## RESTful API (Paragraph)
 Intoducting RESTful API
