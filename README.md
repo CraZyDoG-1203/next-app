@@ -61,6 +61,7 @@ This code is a practice of basic next.js.Function, skills including:
 ## ClientSideMenu
 Opening the content of submenu
 ### Function
+- Display all links
 - Using `useState` to control whether show or hide the menu.
 ``` typescript
 const [Contents, setShowSubmenu] = useState(false);
@@ -73,10 +74,14 @@ const toggleSubmenu = () => {
 ```
 
 ##  City List 
-Use list method to show the city 
+Use list method to show the city.
 ### Function
-- Switch content to show or hide
-- Display all links
+- Switch content to show or hide.
+- Two ways to show list `city.map`, `city = []`.
+- Deal with empty arrays.
+``` typescript
+ {city.length === 0 && <p> No items found </p> }
+```
 
 ## User 
 Practicing data fetching with json, using cache with a better effcient.
