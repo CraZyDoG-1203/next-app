@@ -38,18 +38,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Introduction
 This code is a practice of basic next.js.Function, skills including:
+- Using typscript (tsx)
 - Conditional Rendering 
 - Paragraph Display
 - Data Fetching
 - DaisyUI
 
 # Warnings 
-1.Please make sure that you have installed React and Next in your computer.
-2.Start the server using `npm run dev` in terminal.
+- 1.Please make sure that you have installed React and Next in your computer.
+- 2.Start the server using `npm run dev` in terminal.
 
 # Pages topics
 ## ClientSideMenu
 Opening the content of submenu
+### Function
+- 從 JSONPlaceholder API 獲取用戶數據
+- 顯示用戶的姓名和電子郵件地址
+- 顯示當前時間
+- 提供返回側邊菜單的鏈接
 
 ##  City List 
 Use list method to show the city 
