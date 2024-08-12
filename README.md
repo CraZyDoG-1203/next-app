@@ -49,14 +49,14 @@ This code is a practice of basic next.js.Function, skills including:
  2.Start the server using `npm run dev` in terminal.
 
 # Contents
- 1.ClientSideMenu
- 2.City List
- 3.User
- 4.Zero knowledge proof
- 5.Next.js
- 6.RESTful API
- 7.Node.js
- 8.Javascript
+ 1. ClientSideMenu
+ 2. City List
+ 3. User
+ 4. Zero knowledge proof
+ 5. Next.js
+ 6. RESTful API
+ 7. Node.js
+ 8. Javascript
 ## ClientSideMenu
 Opening the content of submenu
 
