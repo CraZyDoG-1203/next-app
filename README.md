@@ -95,14 +95,14 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 
 ## Zero Knowledge Proof (Paragraph)
 Zero Knowledge Proof (ZKP) is a cryptographic method that allows one party (the prover) to prove the truth of a statement to another party (the verifier) without revealing any specific information about the statement itself.
-### Hypothesis
-Everyone is honest
 ### Summary
 - History
 - Author
 - Underdraw how it works
-- Advantage
+- Advantages
 - Resources
+### Hypothesis
+Everyone is honest
 ### Three conditions to achieve
 1. **Completeness**
 - If statements are true, the prover can prove to the verifer.
@@ -116,21 +116,20 @@ Introducing next.js
 ### Summary
 - History
 - Coding Language
-- Capability
+- Capabilities
+- Hot Reloading
 - 3 Rendering method
 ### Coding Language
 - Javascript
 - Typescript
-### Capability
-- Own Router System
+### Features
+- Own Routing System
 - Auto static optimization
 - API router
 ### 3 Rendering method
 - SSG Static Site Generation
 - ISR Incremental Site Regeneration
 - SSR Server side Rendering
-
-
 
 
 ## RESTful API (Paragraph)
