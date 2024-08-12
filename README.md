@@ -41,34 +41,33 @@ This code is a practice of basic next.js.Function, skills including:
 - Conditional Rendering 
 - Paragraph Display
 - Data Fetching
-- Daisy
+- DaisyUI
 
 # Warnings 
 1.Please make sure that you have installed React and Next in your computer.
 2.Start the server using `npm run dev` in terminal.
 
+# Pages topics
 ## ClientSideMenu
 Opening the content of submenu
 
 ##  City List 
-
-## Next.js 
-Introducing next.js
+Use list method to show the city 
 
 ## User 
+Practicing data fetching with json, using cache with a better effcient.
 
+## Next.js (Paragraph)
+Introducing next.js
 
-## zkp 
+## zkp (Paragraph)
+Introducting Zero knowledge Proof 
 
+## RESTful API (Paragraph)
+Intoducting RESTful API
 
-## RESTful API 
+## Node.js (Paragraph)
+Introducing Node.js 
 
-
-## Node.js 
-
-
-## JavaScript 
-
-
-
-
+## JavaScript (Paragraph)
+Introducting JavaScript
