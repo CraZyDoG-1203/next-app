@@ -199,7 +199,7 @@ JavaScript is a high-level, straight-interpreted, versatile programing language.
 - Angular
 - Vue
 - jQuery
+- Electron
 ### Advantages
 - High effeciency
-- Highly support
-- 
+- Highly support by web browsers nowadays
