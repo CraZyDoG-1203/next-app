@@ -45,8 +45,8 @@ This code is a practice of basic next.js.Function, skills including:
 - DaisyUI
 
 # Warnings 
- 1.Please make sure that you have installed React and Next in your computer.
- 2.Start the server using `npm run dev` in terminal.
+ 1. Please make sure that you have installed React and Next in your computer.
+ 2. Start the server using `npm run dev` in terminal.
 
 # Contents
  1. ClientSideMenu
@@ -57,12 +57,16 @@ This code is a practice of basic next.js.Function, skills including:
  6. RESTful API
  7. Node.js
  8. Javascript
+
 ## ClientSideMenu
 Opening the content of submenu
 
 
 ##  City List 
 Use list method to show the city 
+### Function
+- Switch content to show or hide
+- Display all links
 
 ## User 
 Practicing data fetching with json, using cache with a better effcient.
