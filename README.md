@@ -52,11 +52,12 @@ This code is a practice of basic next.js.Function, skills including:
  1. ClientSideMenu
  2. City List
  3. User
- 4. Zero knowledge proof
- 5. Next.js
- 6. RESTful API
- 7. Node.js
- 8. Javascript
+ 4. Paragraph techniques
+ 5. Zero knowledge proof
+ 6. Next.js
+ 7. RESTful API
+ 8. Node.js
+ 9. Javascript
 
 ## ClientSideMenu
 Opening the content of submenu
@@ -92,6 +93,25 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 ```
 - Display user's name and email address
 - Display current time
+
+## Techniques
+### Spaces 
+```typescript
+<li style={{ textIndent: '2em' }}></li>
+```
+### Display words
+```html
+<p></p>
+<li></li>
+<h1 ~ h6> <h1 ~h6>
+<div></div>
+<b></b>
+```
+### Links
+```html
+<a></a>
+<Link href = "...">...</Link>
+```
 
 ## Zero Knowledge Proof (Paragraph)
 Zero Knowledge Proof (ZKP) is a cryptographic method that allows one party (the prover) to prove the truth of a statement to another party (the verifier) without revealing any specific information about the statement itself.
