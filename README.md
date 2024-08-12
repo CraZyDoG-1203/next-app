@@ -48,9 +48,24 @@ This code is a practice of basic next.js.Function, skills including:
 - 1.Please make sure that you have installed React and Next in your computer.
 - 2.Start the server using `npm run dev` in terminal.
 
-# Pages topics
+# Contents
+- 1.ClientSideMenu
+- 2.City List
+- 3.User
+- 4.Zero knowledge proof
+- 5.Next.js
+- 6.RESTful API
+- 7.Node.js
+- 8.Javascript
 ## ClientSideMenu
 Opening the content of submenu
+
+
+##  City List 
+Use list method to show the city 
+
+## User 
+Practicing data fetching with json, using cache with a better effcient.
 ### Function
 - Get user data from JSONPlaceholder API   
 ``` typescript
@@ -59,17 +74,11 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 - Display user's name and email address
 - Display current time
 
-##  City List 
-Use list method to show the city 
-
-## User 
-Practicing data fetching with json, using cache with a better effcient.
+## zkp (Paragraph)
+Introducting Zero knowledge Proof 
 
 ## Next.js (Paragraph)
 Introducing next.js
-
-## zkp (Paragraph)
-Introducting Zero knowledge Proof 
 
 ## RESTful API (Paragraph)
 Intoducting RESTful API
