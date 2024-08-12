@@ -59,13 +59,17 @@ This code is a practice of basic next.js.Function, skills including:
  8. Javascript
 
 ## ClientSideMenu
-Opening the content of submenu,using `State` to control whether show or hide the menu.
+Opening the content of submenu
+### Function
+- Using `useState` to control whether show or hide the menu.
 ``` typescript
-export default function ClientSideMenu() {
-  const [Contents, setShowSubmenu] = useState(false);
-  const toggleSubmenu = () => {
+const [Contents, setShowSubmenu] = useState(false);
+const toggleSubmenu = () => {
     setShowSubmenu(!Contents);
-  };
+};
+<button onClick={toggleSubmenu}>
+    {Contents ? '' : ''} Contents
+</button>
 ```
 
 ##  City List 
@@ -90,12 +94,16 @@ Introducting Zero knowledge Proof
 
 ## Next.js (Paragraph)
 Introducing next.js
+## Summary
 
 ## RESTful API (Paragraph)
 Intoducting RESTful API
+## Summary
 
 ## Node.js (Paragraph)
 Introducing Node.js 
+## Summary
 
 ## JavaScript (Paragraph)
 Introducting JavaScript
+## Summary
