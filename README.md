@@ -103,10 +103,10 @@ Introducing next.js
 - History
 - Author
 - Underdraw how it works
-- 3 Conditions needed
--.1 完備性
--.2 可靠性
--.3 零知識
+- Three Conditions needed
+1.1 完備性
+1.2 可靠性
+1.3 零知識
 - Advantage
 - Resource
 
