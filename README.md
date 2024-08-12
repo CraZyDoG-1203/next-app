@@ -93,7 +93,7 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 - Display user's name and email address
 - Display current time
 
-## zkp (Paragraph)
+## Zero Knowledge Proof (Paragraph)
 Zero Knowledge Proof (ZKP) is a cryptographic method that allows one party (the prover) to prove the truth of a statement to another party (the verifier) without revealing any specific information about the statement itself.
 ### Hypothesis
 Everyone is honest
@@ -113,7 +113,7 @@ Everyone is honest
 
 ## Next.js (Paragraph)
 Introducing next.js
-## Summary
+### Summary
 - History
 - Coding Language
 - Capability
