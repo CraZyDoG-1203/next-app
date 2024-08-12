@@ -94,7 +94,7 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users")
 - Display user's name and email address
 - Display current time
 
-## Techniques
+## Paragraph Techniques
 ### Spaces 
 ```typescript
 <li style={{ textIndent: '2em' }}></li>
@@ -125,14 +125,12 @@ Zero Knowledge Proof (ZKP) is a cryptographic method that allows one party (the 
 Everyone is honest
 ### Three conditions to achieve
 1. **Completeness**
-- If statements are true, the prover can prove to the verifer.
 2. **Reliability**
-- If statements are fake, there is only a small chance it can pursuade the verifier.
 3. **Zero Knowledge**
-- The verifier won't know any unrelative message in any conditions.
+
 
 ## Next.js (Paragraph)
-Introducing next.js
+Next.js is a web develop framework build on react and node.js.
 ### Summary
 - History
 - Coding Language
@@ -147,19 +145,30 @@ Introducing next.js
 - Auto static optimization
 - API router
 ### 3 Rendering method
-- SSG Static Site Generation
-- ISR Incremental Site Regeneration
-- SSR Server side Rendering
+- **SSG Static Site Generation**
+- **ISR Incremental Site Regeneration**
+- **SSR Server side Rendering**
 
 
 ## RESTful API (Paragraph)
 Intoducting RESTful API
-## Summary
+### Summary
+- History
+- Where to use
+- Conveniences
+- Advantages
+### Conveniences 
+- No need to read API documents before using it.
+### Advantages
+- **Scalability**
+- **Flexibilty**
+- **Independency**
+
 
 ## Node.js (Paragraph)
 Introducing Node.js 
-## Summary
+### Summary
 
 ## JavaScript (Paragraph)
 Introducting JavaScript
-## Summary
+### Summary
